@@ -15,11 +15,11 @@ def config() -> None:
     SYSTEM = "SYSTEM"
 
     #DATABASE
-    os.environ.setdefault("DATABASE_NAME", load_conf(config_parse, DATABASE, "DATABASE_NAME"))
-    os.environ.setdefault("DATABASE_USER", load_conf(config_parse, DATABASE, "DATABASE_USER"))
-    os.environ.setdefault("DATABASE_PASSWORD", load_conf(config_parse, DATABASE, "DATABASE_PASSWORD"))
-    os.environ.setdefault("DATABASE_HOST", load_conf(config_parse, DATABASE, "DATABASE_HOST"))
-    os.environ.setdefault("DATABASE_PORT", load_conf(config_parse, DATABASE, "DATABASE_PORT"))
+    os.environ.setdefault("DATABASE_NAME", load_conf(config_parse, DATABASE, "NAME"))
+    os.environ.setdefault("DATABASE_USER", load_conf(config_parse, DATABASE, "USER"))
+    os.environ.setdefault("DATABASE_PASSWORD", load_conf(config_parse, DATABASE, "PASSWORD"))
+    os.environ.setdefault("DATABASE_HOST", load_conf(config_parse, DATABASE, "HOST"))
+    os.environ.setdefault("DATABASE_PORT", load_conf(config_parse, DATABASE, "PORT"))
     
     #SYSTEM
     os.environ.setdefault("DJANGO_DEBUG", load_conf(config_parse, SYSTEM, "DJANGO_DEBUG", "False"))
