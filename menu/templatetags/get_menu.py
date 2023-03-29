@@ -1,6 +1,5 @@
 from django import template
 from django.utils.html import format_html
-from django.db.models import Prefetch
 
 from menu.models import Notes
 
@@ -13,7 +12,7 @@ def draw_menu(menu_name: str) -> str:
     for item in menu_items:
         menu_html += "<li>"
         if item.url:
-            menu_html += format_html('<a href="{}">{}</a>', item.url, item.title)
+            menu_html += format_html('<a href="{}/">{}</a>', item.url, item.title)
         else:
             menu_html += item.title
         menu_html += draw_children(item)

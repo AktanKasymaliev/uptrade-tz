@@ -3,9 +3,8 @@ from django.views import generic
 
 from menu.models import Notes
 
-
 class HomePage(generic.View):
-    
+
     def get(self, request):
         return render(request, 'home_page.html')
 
