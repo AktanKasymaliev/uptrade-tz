@@ -1,5 +1,6 @@
+{% extends 'base.html' %}
 {% load get_menu %}
 
-<ul>
-{% draw_menu 'main_menu' %}
-</ul>
+{% block content %}
+  {% draw_menu "" %}
+{% endblock %}

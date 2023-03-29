@@ -22,7 +22,7 @@ class Notes(DateTimeField):
         return super(Notes, self).save(*args, **kwargs)
 
     def get_absolute_url(self):
-        return reverse('note_detail', args=[self.url])
+        return reverse('note_detail', kwargs={"slug": self.url})
 
     class Meta:
         verbose_name = "Note"

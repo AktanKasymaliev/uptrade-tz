@@ -1,14 +1,14 @@
 from django import template
-from django.urls import reverse
 from django.utils.html import format_html
+from django.db.models import Prefetch
 
 from menu.models import Notes
 
 register = template.Library()
 
 @register.simple_tag
-def draw_menu(menu_name):
-    menu_items = Notes.objects.filter(parent__isnull=True)
+def draw_menu(menu_name: str) -> str:
+    menu_items = get_menu_list(menu_name).select_related("parent")
     menu_html = "<ul>"
     for item in menu_items:
         menu_html += "<li>"
@@ -21,13 +21,24 @@ def draw_menu(menu_name):
     menu_html += "</ul>"
     return format_html(menu_html)
 
-def draw_children(item):
+def get_menu_list(menu_name: str) ->object:
+    if menu_name and isinstance(menu_name, str):
+        menu_items = Notes.objects.prefetch_related("children").filter(
+            title__icontains=menu_name,
+            parent__isnull=True
+            )
+    else:
+        menu_items = Notes.objects.prefetch_related("children").filter(parent__isnull=True)
+    return menu_items
+
+def draw_children(item: object):
     if item.children.exists():
         children_html = "<ul>"
-        for child in item.children.all():
+        parents = item.children.prefetch_related("children").all()
+        for child in parents:
             children_html += "<li>"
             if child.url:
-                children_html += format_html('<a href="{}">{}</a>', child.url, child.title)
+                children_html += format_html('<a href="{}/">{}</a>', child.url, child.title)
             else:
                 children_html += child.title
             children_html += draw_children(child)
