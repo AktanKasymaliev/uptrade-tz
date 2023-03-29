@@ -1,0 +1,783 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2023-03-29T08:51:25.874Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Studying Roadmap for Learning Any Programming Language",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2023-03-29T08:52:59.669Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Roadmap to Learn Python",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2023-03-29T08:54:30.984Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Roadmap to learn Java",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2023-03-29T08:56:39.950Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Roadmap to learn C++",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2023-03-29T11:54:20.351Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Roadmap to Learn Golang",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2023-03-29T12:09:44.886Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "Recipes for beginners",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2023-03-29T12:11:36.581Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "Homemade cheese sticks",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2023-03-29T12:13:03.321Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "8",
+    "object_repr": "One-Pan Roasted Chicken with Carrots",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2023-03-29T12:17:11.321Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "9",
+    "object_repr": "Baked Garlic Parmesan Chicken",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2023-03-29T12:17:22.608Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "9",
+    "object_repr": "Baked Garlic Parmesan Chicken",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2023-03-29T12:26:32.596Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "12",
+    "object_repr": "Baked Garlic Parmesan Chicken",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2023-03-29T12:28:10.350Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "13",
+    "object_repr": "# List of Films",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2023-03-29T12:29:51.298Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "14",
+    "object_repr": "The Godfather",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2023-03-29T12:30:51.604Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "15",
+    "object_repr": "Film Review: The Shawshank Redemption",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2023-03-29T12:32:06.182Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "16",
+    "object_repr": "A Brief Overview of \"The Dark Knight\"",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2023-03-29T12:33:00.731Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "17",
+    "object_repr": "A Brief Overview of Forrest Gump",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add Picture",
+    "content_type": 7,
+    "codename": "add_picture"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change Picture",
+    "content_type": 7,
+    "codename": "change_picture"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete Picture",
+    "content_type": 7,
+    "codename": "delete_picture"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view Picture",
+    "content_type": 7,
+    "codename": "view_picture"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add Note",
+    "content_type": 8,
+    "codename": "add_notes"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change Note",
+    "content_type": 8,
+    "codename": "change_notes"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete Note",
+    "content_type": 8,
+    "codename": "delete_notes"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view Note",
+    "content_type": 8,
+    "codename": "view_notes"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$pLm4MYxm3IrbmrG0odLrOX$a96/Axpr5xQiRXV8DLkL8QZW2kxH32ewrdYT86Il1oQ=",
+    "last_login": "2023-03-29T08:29:02.209Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "admin@admin.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-03-29T08:28:24.286Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "menu",
+    "model": "picture"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "menu",
+    "model": "notes"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "usu3pczmfpzr92dcf63cx1wy6wvyc3rw",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hBAyoBL9z0DYYapVA0kpV0Z765NutDtf-_9l4hpW0vcOi9xzuIitDj9bpjowXUH-Z7qrUlqdV1mlLsiD9rl2DI_r4f7d1BSL98awJtzCMYPzgFB5sl7TIEVeWIkB1qzRQZUqDlxBustKTCKJ0VgB_H-AOAyOBk:1phRB0:Lct-PL3wK_Tn3Lx-OQ13WslwVyZc7PSwQIjglCjoWcg",
+    "expire_date": "2023-04-12T08:29:02.213Z"
+  }
+},
+{
+  "model": "menu.notes",
+  "pk": 1,
+  "fields": {
+    "created_at": "2023-03-29T08:51:25.865Z",
+    "updated_at": "2023-03-29T08:51:25.865Z",
+    "title": "Studying Roadmap for Learning Any Programming Language",
+    "parent": null,
+    "content": "## Step 1: Choose a Language\r\n\r\nThe first step is to choose a programming language to learn. Consider your goals and interests, and research the different programming languages to find one that fits your needs. Some popular programming languages include Python, Java, JavaScript, C++, and Ruby.\r\n\r\n## Step 2: Learn the Basics\r\n\r\nOnce you have chosen a programming language, it's time to start learning the basics. This includes understanding the syntax, data types, variables, and control structures of the language. There are many resources available online, such as tutorials, videos, and books, that can help you learn the basics.\r\n\r\n## Step 3: Practice, Practice, Practice\r\n\r\nThe key to learning a programming language is practice. Start with simple programs and gradually work your way up to more complex ones. There are many websites and platforms, such as HackerRank and LeetCode, that provide coding challenges and problems to help you practice.\r\n\r\n## Step 4: Build Projects\r\n\r\nBuilding projects is a great way to apply what you have learned and gain experience. Start with small projects and gradually work your way up to larger ones. There are many project ideas available online, such as building a calculator or a simple game.\r\n\r\n## Step 5: Join a Community\r\n\r\nJoining a community of programmers can provide support, feedback, and inspiration. There are many online communities, such as Reddit's r/learnprogramming, that can help you connect with other programmers and learn from their experiences.\r\n\r\n## Step 6: Keep Learning\r\n\r\nLearning a programming language is an ongoing process. Keep up to date with new developments and technologies in the language, and continue to practice and build projects. This will help you stay motivated and make progress towards your goals.\r\n\r\nBy following this roadmap, you can learn any programming language and become a proficient programmer. Good luck!",
+    "url": "studying-roadmap-for-learning-any-programming-language",
+    "pictures": []
+  }
+},
+{
+  "model": "menu.notes",
+  "pk": 2,
+  "fields": {
+    "created_at": "2023-03-29T08:52:59.664Z",
+    "updated_at": "2023-03-29T08:52:59.664Z",
+    "title": "Roadmap to Learn Python",
+    "parent": 1,
+    "content": "If you're interested in learning Python, here's a roadmap that can guide you through your journey:\r\n\r\n## Step 1: Learn the Basics\r\n\r\n- Start with the fundamentals of Python programming language, including syntax, variables, data types, operators, and control structures.\r\n- Familiarize yourself with Python's built-in functions and libraries.\r\n- Learn about Python's object-oriented programming (OOP) concepts.\r\n\r\n## Step 2: Dive into Advanced Concepts\r\n\r\n- Once you're comfortable with the basics, move on to more advanced concepts such as decorators, generators, and metaclasses.\r\n- Learn about different data structures and algorithms, and how to use them in Python.\r\n- Explore various Python libraries such as NumPy, Pandas, and Matplotlib.\r\n\r\n## Step 3: Build Projects\r\n\r\n- Start building small projects to put your skills to the test.\r\n- Work on projects that interest you, such as building a web application, creating a game, or analyzing data.\r\n- Participate in coding challenges and competitions to improve your skills and learn from others.\r\n\r\n## Step 4: Continue Learning\r\n\r\n- Keep up with the latest developments in Python and its related technologies.\r\n- Follow Python communities and blogs to stay updated with the latest trends and best practices.\r\n- Attend conferences, workshops, and meetups to network with other Python developers and learn from experts.\r\n\r\nBy following this roadmap, you can become a proficient Python developer and build exciting projects. Happy learning!",
+    "url": "roadmap-to-learn-python",
+    "pictures": []
+  }
+},
+{
+  "model": "menu.notes",
+  "pk": 3,
+  "fields": {
+    "created_at": "2023-03-29T08:54:30.979Z",
+    "updated_at": "2023-03-29T08:54:30.979Z",
+    "title": "Roadmap to learn Java",
+    "parent": 1,
+    "content": "If you're looking to learn Java, follow this roadmap to help guide your learning journey:\r\n\r\n## Step 1: Basics of Java Programming\r\n\r\nBefore diving into complex topics, it's important to have a solid foundation of the basics. Start with learning the syntax, data types, control statements, loops and arrays in Java.\r\n\r\n## Step 2: Object-Oriented Programming\r\n\r\nJava is a powerful object-oriented programming language. Learn the principles of OOP, including classes, objects, inheritance, polymorphism, and abstraction.\r\n\r\n## Step 3: Advanced Java Concepts\r\n\r\nAfter mastering the fundamentals of Java and OOP, you can move on to advanced concepts. These include multithreading, networking, exception handling, generics, and collections.\r\n\r\n## Step 4: Frameworks and Libraries\r\n\r\nJava has a vast ecosystem of frameworks and libraries that can make your development process faster and more efficient. Some popular frameworks include Spring, Hibernate, and Struts.\r\n\r\n## Step 5: Projects and Practice\r\n\r\nThe best way to learn Java is by doing. Start working on projects to apply your knowledge and build your skills. You can build desktop applications, web applications, or Android apps.\r\n\r\n## Step 6: Stay Updated\r\n\r\nJava is a constantly evolving language, with new features and updates being released regularly. Stay updated on the latest trends and updates by reading blogs, forums and attending tech meetups.\r\n\r\n# Conclusion\r\n\r\nFollow this roadmap and stay committed to learning, and you'll soon become a proficient Java developer. Good luck!",
+    "url": "roadmap-to-learn-java",
+    "pictures": []
+  }
+},
+{
+  "model": "menu.notes",
+  "pk": 4,
+  "fields": {
+    "created_at": "2023-03-29T08:56:39.945Z",
+    "updated_at": "2023-03-29T08:56:39.945Z",
+    "title": "Roadmap to learn C++",
+    "parent": 1,
+    "content": "# Roadmap to Learn C++\r\n\r\nIf you are new to programming or want to expand your skills, learning C++ can be a great option. C++ is a powerful and widely-used programming language that can be used for a variety of applications. Here is a roadmap to help you learn C++ effectively:\r\n\r\n## Step 1: Understanding the Basics\r\n\r\nBefore you start learning C++, you need to have a basic understanding of programming concepts such as variables, data types, loops, and functions. You can find many online resources such as tutorials, videos, and books that can help you learn these concepts.\r\n\r\n## Step 2: Learning the Language\r\n\r\nOnce you have a good understanding of the basics, you can start learning C++. There are many online courses and tutorials that can help you learn the language. Some of the topics you should focus on include:\r\n\r\n- Syntax and semantics of C++\r\n- Pointers and references\r\n- Classes and objects\r\n- Inheritance and polymorphism\r\n- Templates and generic programming\r\n- Standard library\r\n\r\n## Step 3: Practicing Your Skills\r\n\r\nAs you learn C++, it is important to practice your skills by writing code. You can start with simple programs and gradually move on to more complex ones. You can also work on projects that interest you, such as developing a game or creating a website.\r\n\r\n## Step 4: Refining Your Skills\r\n\r\nTo become an expert in C++, you need to refine your skills continuously. You can do this by reading code written by others, participating in online forums and communities, and attending conferences and workshops. You can also contribute to open-source projects and work on challenging problems.\r\n\r\n## Conclusion\r\n\r\nLearning C++ can be a challenging but rewarding experience. By following this roadmap, you can develop a strong foundation in the language and become an expert in C++ programming.",
+    "url": "roadmap-to-learn-c",
+    "pictures": []
+  }
+},
+{
+  "model": "menu.notes",
+  "pk": 5,
+  "fields": {
+    "created_at": "2023-03-29T11:54:20.346Z",
+    "updated_at": "2023-03-29T11:54:20.346Z",
+    "title": "Roadmap to Learn Golang",
+    "parent": 1,
+    "content": "If you're planning to learn Golang, here is a roadmap that can guide you through the process:\r\n\r\n## Step 1: Learn the basics of Golang\r\n\r\nBefore diving into the specifics of Golang, it's important to learn the basics. This includes getting familiar with the syntax, data types, and control structures. There are several resources available online to help you learn the basics of Golang, including:\r\n\r\n- [A Tour of Go](https://tour.golang.org/welcome/1): an interactive tutorial that provides an introduction to the language\r\n- [Golang.org](https://golang.org/doc/tutorial/): a tutorial provided by the official Golang website\r\n- [Golang Bootcamp](https://www.golangbootcamp.com/): a comprehensive course that covers the basics of Golang\r\n\r\n## Step 2: Learn Golang packages and libraries\r\n\r\nAfter learning the basics of Golang, you can start exploring the different packages and libraries available in the language. These packages can help you accomplish a wide range of tasks, from handling HTTP requests to working with databases. Some popular Golang packages include:\r\n\r\n- [net/http](https://golang.org/pkg/net/http/): a package for handling HTTP requests and building web applications\r\n- [os](https://golang.org/pkg/os/): a package for handling file operations and system calls\r\n- [database/sql](https://golang.org/pkg/database/sql/): a package for working with databases\r\n\r\n## Step 3: Build Golang projects\r\n\r\nOnce you're comfortable with the basics of Golang and have an understanding of the different packages available, you can start building your own projects. This is a great way to apply what you've learned and gain practical experience with the language.\r\n\r\nSome project ideas to get started with include:\r\n\r\n- Building a command-line tool that performs a specific task\r\n- Creating a REST API using Golang and a database\r\n- Building a web application using a Golang web framework such as [Gin](https://gin-gonic.com/)\r\n\r\n## Step 4: Join the Golang community\r\n\r\nFinally, it's a good idea to join the Golang community. This can help you stay up-to-date with the latest developments in the language, connect with other Golang developers, and get help with any issues you may encounter.\r\n\r\nSome ways to get involved with the Golang community include:\r\n\r\n- Joining the [Golang Slack](https://invite.slack.golangbridge.org/) or [Golang subreddit](https://www.reddit.com/r/golang/) to connect with other developers\r\n- Attending Golang conferences and meetups in your area\r\n- Contributing to open-source Golang projects on GitHub\r\n\r\nBy following this roadmap, you can learn Golang and start building your own projects in no time!",
+    "url": "roadmap-to-learn-golang",
+    "pictures": []
+  }
+},
+{
+  "model": "menu.notes",
+  "pk": 6,
+  "fields": {
+    "created_at": "2023-03-29T12:09:44.878Z",
+    "updated_at": "2023-03-29T12:09:44.878Z",
+    "title": "Recipes for beginners",
+    "parent": null,
+    "content": "╨Я╤А╨╛╤Б╤В╤Л╨╡ ╤А╨╡╤Ж╨╡╨┐╤В╤Л ╨┤╨╗╤П ╨╜╨░╤З╨╕╨╜╨░╤О╤Й╨╕╤Е ╨▓╤Л╤А╤Г╤З╨░╤В, ╨╡╤Б╨╗╨╕ ╨▓╤Л ╨┐╨╛╨║╨░ ╤В╨╛╨╗╤М╨║╨╛ ╨┐╤А╨╕╤Б╤В╤Г╨┐╨╕╨╗╨╕ ╨║ ╨╛╤Б╨▓╨╛╨╡╨╜╨╕╤О ╨┤╨╛╨╝╨░╤И╨╜╨╕╤Е ╤А╨╡╤Ж╨╡╨┐╤В╨╛╨▓. ╨Ъ╨░╨║ ╨╜╨░╤Г╤З╨╕╤В╤М╤Б╤П ╨│╨╛╤В╨╛╨▓╨╕╤В╤М? ╨Т╨░╨╝ ╨┐╨╛╨╝╨╛╨│╤Г╤В ╨┐╤А╨╛╤Б╤В╤Л╨╡ ╤А╨╡╤Ж╨╡╨┐╤В╤Л, ╨╗╨╡╨│╨║╨╕╨╡ ╤А╨╡╤Ж╨╡╨┐╤В╤Л ╨┤╨╗╤П ╨╜╨░╤З╨╕╨╜╨░╤О╤Й╨╕╤Е. ╨Я╤А╨╛╤Б╤В╤Л╨╡ ╨╕ ╨╗╨╡╨│╨║╨╕╨╡ ╤А╨╡╤Ж╨╡╨┐╤В╤Л ╨┤╨╗╤П ╨╜╨░╤З╨╕╨╜╨░╤О╤Й╨╕╤Е ╤Е╨╛╨╖╤П╨╡╨║ ╨╜╨░ ╨║╨░╨╢╨┤╤Л╨╣ ╨┤╨╡╨╜╤М - ╨┤╨╛╨╝╨░╤И╨╜╨╕╨╡ ╤А╨╡╤Ж╨╡╨┐╤В╤Л ╨┐╤А╨╛╤Б╤В╤Л╤Е ╤Б╨░╨╗╨░╤В╨╛╨▓, ╨┐╤А╨╛╤Б╤В╤Л╤Е ╨▒╨╗╤О╨┤ ╨╕ ╨│╨░╤А╨╜╨╕╤А╨╛╨▓ ╨╕╨╗╨╕ ╨╗╨╡╨│╨║╨╕╨╡ ╤А╨╡╤Ж╨╡╨┐╤В╤Л ╨┤╨╗╤П ╤Б╨░╨╝╤Л╤Е-╤Б╨░╨╝╤Л╤Е ╨╜╨░╤З╨╕╨╜╨░╤О╤Й╨╕╤Е, ╤В╨░╨║╨╕╨╡ ╨║╨░╨║ ╨▒╤Г╤В╨╡╤А╨▒╤А╨╛╨┤╤Л, ╨╛╨┐╨╕╤Б╨░╨╜╤Л ╨╛╤З╨╡╨╜╤М ╤В╤Й╨░╤В╨╡╨╗╤М╨╜╨╛. ╨Я╤А╨╛╤Б╤В╤Л╨╡ ╤А╨╡╤Ж╨╡╨┐╤В╤Л ╤В╨╛╤А╤В╨╛╨▓ ╨┤╨╗╤П ╨╜╨░╤З╨╕╨╜╨░╤О╤Й╨╕╤Е, ╨╜╨░╨┐╤А╨╕╨╝╨╡╤А, ╤А╨╡╤Ж╨╡╨┐╤В ╤В╨╛╤А╤В╨░ ╤Б ╨╝╨░╤Б╤В╨╕╨║╨╛╨╣ ╨┤╨╗╤П ╨╜╨░╤З╨╕╨╜╨░╤О╤Й╨╕╤Е ╤В╨░╨║╨╢╨╡ ╤Б╨╜╨░╨▒╨╢╨╡╨╜╤Л ╨┐╨╛╤И╨░╨│╨╛╨▓╤Л╨╝╨╕ ╤Д╨╛╤В╨╛╨│╤А╨░╤Д╨╕╤П╨╝╨╕. ╨г╤З╨╕╨╝╤Б╤П ╨│╨╛╤В╨╛╨▓╨╕╤В╤М ╨┐╨╛╤И╨░╨│╨╛╨▓╤Л╨╡ ╤А╨╡╤Ж╨╡╨┐╤В╤Л ╨┤╨╗╤П ╨╜╨░╤З╨╕╨╜╨░╤О╤Й╨╕╤Е - ╨▓╨╝╨╡╤Б╤В╨╡ ╨▓╤Б╨╡ ╨┐╨╛╨╗╤Г╤З╨╕╤В╤Б╤П! ╨Ф╨╛╨╝╨░╤И╨╜╨╕╨╡ ╨┐╤А╨╛╤Б╤В╤Л╨╡ ╨╕ ╨╗╨╡╨│╨║╨╕╨╡ ╤А╨╡╤Ж╨╡╨┐╤В╤Л ╨╢╨┤╤Г╤В ╨▓╨░╤Б.",
+    "url": "recipes-for-beginners",
+    "pictures": []
+  }
+},
+{
+  "model": "menu.notes",
+  "pk": 7,
+  "fields": {
+    "created_at": "2023-03-29T12:11:36.575Z",
+    "updated_at": "2023-03-29T12:11:36.575Z",
+    "title": "Homemade cheese sticks",
+    "parent": 6,
+    "content": "╨Я╤А╨╛╤Б╤В╨╛╨╣, ╨╜╨╛ ╨╛╤З╨╡╨╜╤М ╨▓╨║╤Г╤Б╨╜╤Л╨╣ ╤А╨╡╤Ж╨╡╨┐╤В ╨┤╨╛╨╝╨░╤И╨╜╨╕╤Е ╤Б╤Л╤А╨╜╤Л╤Е ╨┐╨░╨╗╨╛╤З╨╡╨║. ╨Я╨░╨╗╤М╤З╨╕╨║╨╕ ╨╛╨▒╨╗╨╕╨╢╨╡╤И╤М! ╨Ь╨╕╨╜╨╕╨╝╤Г╨╝ ╨┐╤А╨╛╨┤╤Г╨║╤В╨╛╨▓ ╨╕ ╨╝╨░╨║╤Б╨╕╨╝╤Г╨╝ ╤Г╨┤╨╛╨▓╨╛╨╗╤М╤Б╤В╨▓╨╕╤П, ╨░ ╤Б ╨┐╤А╨╕╨│╨╛╤В╨╛╨▓╨╗╨╡╨╜╨╕╨╡╨╝ ╤Б╨┐╤А╨░╨▓╨╕╤В╤Б╤П ╨┤╨░╨╢╨╡ ╤А╨╡╨▒╤С╨╜╨╛╨║.\r\n\r\n╨Я╤А╨╛╨┤╤Г╨║╤В╤Л\r\n╨б╤Л╤А ╤В╨▓╨╡╤А╨┤╤Л╨╣ - 300 ╨│\r\n╨п╨╣╤Ж╨╛ - 1 ╤И╤В.\r\n╨Ь╤Г╨║╨░ - 30 ╨│\r\n╨Ь╨░╤Б╨╗╨╛ ╤А╨░╤Б╤В╨╕╤В╨╡╨╗╤М╨╜╨╛╨╡ - 70 ╨╝╨╗",
+    "url": "homemade-cheese-sticks",
+    "pictures": []
+  }
+},
+{
+  "model": "menu.notes",
+  "pk": 8,
+  "fields": {
+    "created_at": "2023-03-29T12:13:03.315Z",
+    "updated_at": "2023-03-29T12:13:03.315Z",
+    "title": "One-Pan Roasted Chicken with Carrots",
+    "parent": 6,
+    "content": "What's the worst part of cooking dinner? The clean-up, of course. That's why we're obsessed with this one-pan roasted chicken and carrots recipe. Cook it all at once on a sheet pan, enjoy dinner (without a pile of pots and pans in the sink).\r\n\r\nIngredients\r\n4 chicken thighs\r\n\r\n1┬╜ pounds carrots, peeled and trimmed\r\n\r\n1 large onion, peeled and cut into eighths\r\n\r\n1 head of garlic\r\n\r\n4 tablespoons olive oil\r\n\r\n1 tablespoon chopped fresh rosemary\r\n\r\nKosher salt and freshly ground black pepper, to taste",
+    "url": "one-pan-roasted-chicken-with-carrots",
+    "pictures": []
+  }
+},
+{
+  "model": "menu.notes",
+  "pk": 9,
+  "fields": {
+    "created_at": "2023-03-29T12:17:11.311Z",
+    "updated_at": "2023-03-29T12:17:22.604Z",
+    "title": "Baked Garlic Parmesan Chicken",
+    "parent": 6,
+    "content": "All-purpose crispy chicken breasts are perfect as a stand-alone main. You can also top with jarred marinara and mozzarella for chicken Parmesan or slice and top salads or sandwiches. \"This is going to become a regular meal in our house!\" says Udjesy.\r\n\r\n\r\nPrep Time:\r\n15 mins\r\nCook Time:\r\n30 mins\r\nTotal Time:\r\n45 mins\r\nServings:\r\n6\r\nYield:\r\n6 servings\r\nJump to Nutrition Facts",
+    "url": "baked-garlic-parmesan-chicken",
+    "pictures": []
+  }
+},
+{
+  "model": "menu.notes",
+  "pk": 12,
+  "fields": {
+    "created_at": "2023-03-29T12:26:32.587Z",
+    "updated_at": "2023-03-29T12:26:32.587Z",
+    "title": "Baked Garlic Parmesan Chicken",
+    "parent": 9,
+    "content": "Cheesy, garlicky chicken is baked to crisp perfection in this beloved recipe with thousands of 5-star reviews. Easy, affordable, and full of Italian-inspired flavor, this oven-baked breaded chicken recipe makes the perfect meal for busy weeknights. A few simple steps will give you succulent, basil-kissed chicken with a deep golden Parmesan crust. Add this easily customizable recipe to your rotation for a mouthwatering win every time.\r\n\r\nBreaded Parmesan chicken packs a big flavor that comes together easily in a 9x13 dish. You'll find the full recipe below with step-by-step instructions, but here's what you can expect when you make this top-rated recipe:\r\n\r\nStart by dipping the chicken breasts in garlic-infused olive oil, then into a Parmesan bread crumb mixture. Place the breaded chicken into a large baking dish and cook at 350 degrees F until juices run clear. In just 30 minutes you'll have tender chicken with a delightfully crunchy coating.",
+    "url": "baked-garlic-parmesan-chicken268",
+    "pictures": []
+  }
+},
+{
+  "model": "menu.notes",
+  "pk": 13,
+  "fields": {
+    "created_at": "2023-03-29T12:28:10.345Z",
+    "updated_at": "2023-03-29T12:28:10.345Z",
+    "title": "# List of Films",
+    "parent": null,
+    "content": "- The Godfather\r\n- The Shawshank Redemption\r\n- The Dark Knight\r\n- Forrest Gump\r\n- Pulp Fiction\r\n- Schindler's List\r\n- The Lord of the Rings: The Fellowship of the Ring\r\n- Titanic\r\n- Inception\r\n- The Matrix",
+    "url": "list-of-films245",
+    "pictures": []
+  }
+},
+{
+  "model": "menu.notes",
+  "pk": 14,
+  "fields": {
+    "created_at": "2023-03-29T12:29:51.291Z",
+    "updated_at": "2023-03-29T12:29:51.291Z",
+    "title": "The Godfather",
+    "parent": 13,
+    "content": "# The Godfather\r\n\r\nThe Godfather is a classic American crime film directed by Francis Ford Coppola and released in 1972. The film is based on the novel of the same name by Mario Puzo and stars Marlon Brando, Al Pacino, and James Caan.\r\n\r\nThe film follows the story of the Corleone family, a powerful Mafia family in New York City. The patriarch, Vito Corleone (Marlon Brando), is the head of the family and is known as the \"Godfather.\" The story takes place during the late 1940s and early 1950s and revolves around the family's involvement in organized crime.\r\n\r\nThe film was a critical and commercial success and won three Academy Awards, including Best Picture. It is widely regarded as one of the greatest films of all time and has had a lasting impact on popular culture.",
+    "url": "the-godfather215",
+    "pictures": []
+  }
+},
+{
+  "model": "menu.notes",
+  "pk": 15,
+  "fields": {
+    "created_at": "2023-03-29T12:30:51.598Z",
+    "updated_at": "2023-03-29T12:30:51.598Z",
+    "title": "Film Review: The Shawshank Redemption",
+    "parent": 13,
+    "content": "\"The Shawshank Redemption\" is a 1994 American drama film, directed by Frank Darabont and starring Tim Robbins and Morgan Freeman. The film is based on Stephen King's novella \"Rita Hayworth and Shawshank Redemption.\"\r\n\r\nThe story follows the life of Andy Dufresne, a banker who is sentenced to life in Shawshank State Penitentiary for the murder of his wife and her lover, despite his claims of innocence. In prison, Andy befriends Ellis Boyd \"Red\" Redding, a fellow inmate who is known for his ability to smuggle contraband into the prison.\r\n\r\nThe film is a masterpiece in storytelling, with excellent acting and cinematography. It is a story of hope, friendship, and redemption, as Andy and Red develop a strong bond and help each other through the difficulties of prison life.\r\n\r\nThe Shawshank Redemption is one of the most critically acclaimed films of all time, and for good reason. It is a beautifully crafted film that leaves a lasting impact on the viewer. If you haven't seen it yet, do yourself a favor and watch it.",
+    "url": "film-review-the-shawshank-redemption949",
+    "pictures": []
+  }
+},
+{
+  "model": "menu.notes",
+  "pk": 16,
+  "fields": {
+    "created_at": "2023-03-29T12:32:06.175Z",
+    "updated_at": "2023-03-29T12:32:06.175Z",
+    "title": "A Brief Overview of \"The Dark Knight\"",
+    "parent": 13,
+    "content": "\"The Dark Knight\" is a 2008 superhero film directed by Christopher Nolan, based on the DC Comics character Batman. The film is the second installment in Nolan's Batman film series and is a sequel to \"Batman Begins\" (2005).\r\n\r\nThe film stars Christian Bale as Bruce Wayne/Batman, Heath Ledger as the Joker, Aaron Eckhart as Harvey Dent/Two-Face, and Gary Oldman as James Gordon.\r\n\r\nSet in the fictional Gotham City, the film follows Batman as he tries to stop the Joker's reign of terror on the city. The Joker's goal is to prove that anyone can be corrupted, even the city's beloved hero, Harvey Dent.\r\n\r\nThe film was widely praised for its direction, acting, screenplay, and visual effects. It was also a major commercial success, grossing over $1 billion worldwide. Heath Ledger's performance as the Joker was particularly acclaimed and posthumously earned him the Academy Award for Best Supporting Actor.\r\n\r\nOverall, \"The Dark Knight\" is considered one of the greatest superhero films of all time and a landmark in the genre.",
+    "url": "a-brief-overview-of-the-dark-knight193",
+    "pictures": []
+  }
+},
+{
+  "model": "menu.notes",
+  "pk": 17,
+  "fields": {
+    "created_at": "2023-03-29T12:33:00.724Z",
+    "updated_at": "2023-03-29T12:33:00.724Z",
+    "title": "A Brief Overview of Forrest Gump",
+    "parent": 13,
+    "content": "Forrest Gump is a 1994 American comedy-drama film directed by Robert Zemeckis and starring Tom Hanks, Robin Wright, and Gary Sinise. The movie is based on the 1986 novel of the same name by Winston Groom.\r\n\r\nThe film tells the story of Forrest Gump, a simple man with a low IQ, who witnesses and unwittingly influences some of the defining events of the 20th century. The movie takes the audience on a journey through history, from Forrest's childhood in Alabama during the 1950s to his time in Vietnam and beyond.\r\n\r\nThroughout the film, Forrest interacts with many significant figures of the time, such as Elvis Presley, President John F. Kennedy, and John Lennon. The movie also touches on important social issues, including the Vietnam War, civil rights, and the Watergate scandal.\r\n\r\nForrest Gump was a major box office success and won six Academy Awards, including Best Picture, Best Director, and Best Actor for Tom Hanks. The movie has become a beloved classic and continues to be celebrated for its heartwarming story, memorable characters, and iconic soundtrack.",
+    "url": "a-brief-overview-of-forrest-gump259",
+    "pictures": []
+  }
+}
+]
