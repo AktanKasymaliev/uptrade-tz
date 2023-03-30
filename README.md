@@ -4,7 +4,7 @@
 In the first, you sould clone rep:
 * cloning repository:
 ```
-git clone https://github.com/AktanKasymaliev/django-video-hosting.git
+https://github.com/AktanKasymaliev/uptrade-tz.git
 ```
 * Set and activate virtual enviroment:
 ```
