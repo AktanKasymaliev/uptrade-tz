@@ -34,6 +34,10 @@ CREATE DATABASE <database name> owner <user>;
 ```
 - python manage.py createsuperuser
 ```
+* Load test data
+```
+- python manage.py loaddata testdata.json
+```
 
 * And finally start project: `python manage.py runserver`
 
