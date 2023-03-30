@@ -1,8 +1,6 @@
 from django import template
 from django.utils.safestring import mark_safe
 
-
-
 from menu.models import Notes
 
 register = template.Library()
@@ -17,20 +15,19 @@ def get_menu_list(menu_name: str) ->object:
         notes = Notes.objects.prefetch_related("children").filter(parent=None)
     return notes
 
-
-
 @register.simple_tag
 def draw_menu(menu_name=""):
     notes = get_menu_list(menu_name)
+    return recursive_menu(notes)
+
+
+def recursive_menu(notes):
     menu = "<ul>"
     for item in notes:
         menu += f'<li><a href="{item.url}/">{item.title}</a>'
         children = item.children.all()
         if children:
-            menu += "<ul>"
-            for child in children:
-                menu += f'<li><a href="{child.url}/">{child.title}</a></li>'
-            menu += "</ul>"
+            menu += recursive_menu(children)
         menu += "</li>"
     menu += "</ul>"
     return mark_safe(menu)
