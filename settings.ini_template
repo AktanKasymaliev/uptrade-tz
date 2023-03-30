@@ -1,6 +1,8 @@
 [SYSTEM]
 DJANGO_KEY=secret_key
 DJANGO_DEBUG=True
+ADMIN_USERNAME=django admin username
+ADMIN_PASSWORD=django admin pasww
 
 [DATABASE]
 PASSWORD=db_pass
