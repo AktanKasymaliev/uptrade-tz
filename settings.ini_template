@@ -1,6 +1,6 @@
 [SYSTEM]
 DJANGO_KEY=secret_key
-DEBUG=True
+DJANGO_DEBUG=True
 
 [DATABASE]
 PASSWORD=db_pass

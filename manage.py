@@ -24,3 +24,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+#TODO need to add docker, need to add test

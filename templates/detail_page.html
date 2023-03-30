@@ -1,7 +1,15 @@
 {% extends 'base.html' %}
+{% load static %}
+
+{% block links %}
+    <link rel="stylesheet" href="{% static 'css/detail.css' %}">
+{% endblock %}
+
 
 {% block content %}
+  <div class="container">
     <h2>{{ note.title }}</h2>
     <br>
     <p>{{ note.content }} </p>
+  </div>
 {% endblock %}
