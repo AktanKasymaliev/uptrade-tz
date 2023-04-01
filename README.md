@@ -4,7 +4,7 @@
 In the first, you sould clone rep:
 * cloning repository:
 ```
-git clone https://github.com/AktanKasymaliev/django-video-hosting.git
+https://github.com/AktanKasymaliev/uptrade-tz.git
 ```
 * Set and activate virtual enviroment:
 ```
@@ -33,6 +33,10 @@ CREATE DATABASE <database name> owner <user>;
 * Create superuser
 ```
 - python manage.py createsuperuser
+```
+* Load test data
+```
+- python manage.py loaddata testdata.json
 ```
 
 * And finally start project: `python manage.py runserver`
