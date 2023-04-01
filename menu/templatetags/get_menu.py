@@ -7,17 +7,17 @@ register = template.Library()
 
 def get_menu_list(menu_name: str) ->object:
     if menu_name and isinstance(menu_name, str):
-        notes = Notes.objects.prefetch_related("children").filter(
+        notes = Notes.objects.filter(
             title__icontains=menu_name,
             parent__isnull=True
             )
     else:
-        notes = Notes.objects.prefetch_related("children").filter(parent=None)
+        notes = Notes.objects.filter(parent=None)
     return notes
 
 @register.simple_tag
 def draw_menu(menu_name=""):
-    notes = get_menu_list(menu_name)
+    notes = get_menu_list(menu_name).prefetch_related("children")
     return recursive_menu(notes)
 
 
